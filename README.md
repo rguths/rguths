@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rogério Güths @rguths
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning JavaScript and Node with EJS and SQLite
+- 📫 How to reach me: rguths@gmail.com
